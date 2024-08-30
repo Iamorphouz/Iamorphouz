@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **WebApps, AI**
 
-- 🌱 I’m currently learning **Nextjs, LLMs**
+- 🌱 I’m currently learning **LLMs**
 
 - 👯 I’m looking to collaborate on **WebApps, AI**
 
-- 🤝 I’m looking for help with **Nextjs, LLMs**
+- 🤝 I’m looking for help with **LLMs**
 
 - 💬 Ask me about **React, Python, Machine Learning**
 
