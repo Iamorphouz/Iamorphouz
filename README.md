@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **WebApps, AI**
 
-- 🌱 I’m currently learning **LLMs**
+- 🌱 I’m currently learning **Python Data Science & Analytics**
 
 - 👯 I’m looking to collaborate on **WebApps, AI**
 
