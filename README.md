@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **WebApps, AI**
 
-- 🌱 I’m currently learning **Python Data Science & Analytics**
+- 🌱 I’m currently learning **Python Data Science & Analytics, BI**
 
-- 👯 I’m looking to collaborate on **WebApps, AI**
+- 👯 I’m looking to collaborate on **WebApps, AI, Automation**
 
 - 🤝 I’m looking for help with **LLMs**
 
-- 💬 Ask me about **React, Python, Machine Learning**
+- 💬 Ask me about **WebApps, Python, Machine Learning**
 
 - 📫 How to reach me **codepkt@gmail.com**
 
