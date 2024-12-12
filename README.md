@@ -19,10 +19,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/zeeshan-mujawar-iz/" target="blank"><img align="center"
-            src="https://drive.google.com/file/d/1w-OTDJIBfABXvIxCML_CJg1RIXs9_Iin/view?usp=drive_link"
+            src="https://www.svgrepo.com/show/54425/linkedin.svg"
             alt="https://www.linkedin.com/in/zeeshan-mujawar-iz/" height="30" width="40" /></a>
+    <a href="https://leetcode.com/u/Iamorphouz/" target="blank"><img align="center"
+            src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"
+            alt="https://leetcode.com/u/Iamorphouz/" height="30" width="40" /></a>
     <a href="https://www.codechef.com/users/advize" target="blank"><img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="advize" height="30"
+            src="https://img.icons8.com/?size=512&id=O4SEeX66BY8o&format=png" alt="advize" height="30"
             width="40" /></a>
 </p>
 
