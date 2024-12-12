@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **WebApps, AI, Automation**
 
-- 🤝 I’m looking for help with **LLMs**
+- 🤝 I’m looking for help with **Deep Learning(Transformers)**
 
 - 💬 Ask me about **WebApps, Python, Machine Learning**
 
