@@ -15,15 +15,14 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Generate Top Languages
-        uses: anuraghazra/github-readme-stats@latest
+        uses: anuraghazra/github-readme-stats@master # Use the default branch reference
         with:
           user: ${{ github.repository_owner }}
-          exclude_repo: repo1,repo2 # Exclude specific repositories if needed
-          hide: scss # Replace 'lang1' with the language you want to exclude
+          hide: scss # Exclude SCSS from the top languages
 
       - name: Update README
         run: |
-          sed -i '/<!--START_SECTION:top-langs-->/,/<!--END_SECTION:top-langs-->/c\<!--START_SECTION:top-langs-->\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&exclude_repo=repo1,repo2&hide=lang1)\n<!--END_SECTION:top-langs-->' README.md
+          sed -i '/<!--START_SECTION:top-langs-->/,/<!--END_SECTION:top-langs-->/c\<!--START_SECTION:top-langs-->\n![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&hide=scss)\n<!--END_SECTION:top-langs-->' README.md
 
       - name: Commit changes
         run: |
