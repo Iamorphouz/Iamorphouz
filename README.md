@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zeeshan Mujawar</h1>
-<h3 align="center">A passionate DSA-CP Programmer & Python developer from India</h3>
+<h3 align="center">A passionate DSA Programmer & Python developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamorphouz&label=Profile%20views&color=0e75b6&style=flat"
         alt="iamorphouz" /> </p>
@@ -21,7 +21,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zeeshan-mujawar-iz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeeshan-mujawar-iz/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/advize" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="advize" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/iamorphouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="iamorphouz" height="30" width="40" /></a>
 </p>
 
