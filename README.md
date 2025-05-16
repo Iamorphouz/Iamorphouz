@@ -16,9 +16,9 @@
 
 - 📫 How to reach me **codepkt@gmail.com**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamorphouz" alt="iamorphouz" /></a> </p>
-
 ![Snake animation](https://raw.githubusercontent.com/Iamorphouz/Iamorphouz/refs/heads/output/github-contribution-grid-snake.svg)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamorphouz" alt="iamorphouz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
